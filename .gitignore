@@ -213,3 +213,6 @@ Thumbs.db
 # Editor files
 .vscode/
 .idea/
+
+# Local files
+script.py
